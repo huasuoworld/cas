@@ -109,7 +109,7 @@ CREATE TABLE `user` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
---insert into test values--
+--insert into test values (md5 123456)--
 INSERT INTO `cas`.`user` (`id`, `password`, `user_name`) VALUES ('1', 'e10adc3949ba59abbe56e057f20f883e', 'test');
 
 ```
