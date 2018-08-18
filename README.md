@@ -7,7 +7,8 @@ git checkout -b 5.3.2
 ```
 <h2>2.modify application.properties</h2>
 Reference<br>
-https://apereo.github.io/cas/5.3.x/installation/Configuration-Properties.html
+https://apereo.github.io/cas/5.3.x/installation/Configuration-Properties.html<br>
+https://mkjwk.org/#shared
 
 ```
 
