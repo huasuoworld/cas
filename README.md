@@ -6,6 +6,7 @@ git clone https://github.com/apereo/cas-overlay-template.git
 git checkout -b 5.3.2
 ```
 <h2>2.modify application.properties</h2>
+apereo github project link: https://github.com/apereo<br>
 Reference<br>
 https://apereo.github.io/cas/5.3.x/installation/Configuration-Properties.html<br>
 https://mkjwk.org/#shared
