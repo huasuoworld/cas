@@ -10,6 +10,7 @@ apereo github project link: https://github.com/apereo<br>
 Reference<br>
 https://apereo.github.io/cas/5.3.x/installation/Configuration-Properties.html<br>
 https://mkjwk.org/#shared
+https://docs.oracle.com/javase/7/docs/technotes/tools/windows/keytool.html
 
 ```
 
