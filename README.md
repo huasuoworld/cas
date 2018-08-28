@@ -11,11 +11,11 @@ Reference<br>
 https://apereo.github.io/cas/5.3.x/installation/Configuration-Properties.html<br>
 https://mkjwk.org/#shared<br>
 https://docs.oracle.com/javase/7/docs/technotes/tools/windows/keytool.html<br>
-#CN domain ，OU organization，O organization name L city ST province C country changeit
-keytool -genkeypair -dname "cn=huasuoworld.org, ou=huasuoworld, o=huasuoworld, c=China" \
--ext SAN="dns:huasuoworld,dns:localhost,ip:127.0.0.1" \
--alias cas -keypass changeit -keystore /etc/cas/thekeystore \
--storepass changeit -validity 1800
+#CN domain ，OU organization，O organization name L city ST province C country changeit<br>
+keytool -genkeypair -dname "cn=huasuoworld.org, ou=huasuoworld, o=huasuoworld, c=China" \<br>
+-ext SAN="dns:huasuoworld,dns:localhost,ip:127.0.0.1" \<br>
+-alias cas -keypass changeit -keystore /etc/cas/thekeystore \<br>
+-storepass changeit -validity 1800<br>
 
 ```
 
